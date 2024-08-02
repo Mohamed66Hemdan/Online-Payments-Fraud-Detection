@@ -18,6 +18,8 @@ The ML Model is:
 # Results
 A screenshot of the application is given below.
 
+![photo_5866086712952865084_w](https://github.com/user-attachments/assets/4b404e93-3a19-4fff-af0f-654fe0ef694f)
+
 Case 1:
 ![1](https://github.com/user-attachments/assets/1ba05b85-3e5c-4e80-8c84-01c0b67c8dac)
 
