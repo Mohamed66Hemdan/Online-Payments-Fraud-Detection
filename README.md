@@ -17,8 +17,8 @@ The ML Model is:
 
 # Results
 A screenshot of the application is given below.
+![images (2)](https://github.com/user-attachments/assets/7d23854e-d256-475e-8f53-fb1a0c1b4a90)
 
-![Uploading 1.PNG…]()
 
 
 
