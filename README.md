@@ -17,6 +17,9 @@ The ML Model is:
 
 # Results
 A screenshot of the application is given below.
-![Uploading 1.png…]()
+
+![Uploading 1.PNG…]()
+
+
 
 
