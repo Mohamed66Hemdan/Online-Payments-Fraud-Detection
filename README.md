@@ -6,4 +6,16 @@ The ML Model is:
 
     - Neural Network (NN)
 
+# Dependencies
+    - Data Exploration
+    - Data Analysis
+    - Data Clean
+    - Data Preprocessing 
+    - Feature Extraction and Feature Selection
+    - python libraries : sklearn, numpy, matplotlib,pandas,seaborn
+    - Deployment : Tkinter (GUI)
+
+# Results
+A screenshot of the application is given below.
+
 
