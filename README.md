@@ -17,9 +17,13 @@ The ML Model is:
 
 # Results
 A screenshot of the application is given below.
-![images (2)](https://github.com/user-attachments/assets/7d23854e-d256-475e-8f53-fb1a0c1b4a90)
 
+Case 1:
+![1](https://github.com/user-attachments/assets/1ba05b85-3e5c-4e80-8c84-01c0b67c8dac)
 
+Case 2:
+
+![1](https://github.com/user-attachments/assets/4590a789-3b3b-4a9b-9880-2d7483c327c3)
 
 
 
